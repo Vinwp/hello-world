@@ -1,2 +1,5 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+i just wanna learn how to code a little bit
+
+# about-me
+i like anime and mangas
